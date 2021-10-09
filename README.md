@@ -1,8 +1,6 @@
 ### Oii! Sou Tobias Gustavo e seja muito bem-vinda(o) ao meu perfil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div>
- <img align="right" alt="Edu-yoda" height="100" width="100"/>
- 
  - 🧑🏾‍💻 Pronomes (Ele/He) 
  - 🧑🏾‍💻 Futuro Developer Full Stack Jr. 
  - 🚀 Atualmente Alumni Generation Brasil @Generationbrasil
