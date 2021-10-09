@@ -1,6 +1,6 @@
 ### Oii! Sou Tobias Gustavo e seja muito bem-vinda(o) ao meu perfil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<div>
+ <div>
+ 
  - 🧑🏾‍💻 Pronomes (Ele/He) 
  - 🧑🏾‍💻 Futuro Developer Full Stack Jr. 
  - 🚀 Atualmente Alumni Generation Brasil @Generationbrasil
@@ -10,7 +10,7 @@
 </div>
 <div>
   <a href="https://github.com/tgzss">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TobiasGustavo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tgzss&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgzss&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
 <div style="display: inline_block"><br>
