@@ -1,7 +1,7 @@
 ### Oii! Sou Tobias Gustavo e seja muito bem-vinda(o) ao meu perfil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div>
- <img align="right" alt="Edu-yoda" height="100" width="100" src="https://i.picasion.com/pic91/561b516b42354efdfc8654aebecb308e.gif">
+ <img align="right" alt="Edu-yoda" height="100" width="100"/>
  
  - 🧑🏾‍💻 Pronomes (Ele/He) 
  - 🧑🏾‍💻 Futuro Developer Full Stack Jr. 
